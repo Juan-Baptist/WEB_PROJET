@@ -1,5 +1,3 @@
-# README.md
-
 ## Description du Projet
 EPYTODO est une application Todo construite en utilisant Node.js. Ce projet se concentre sur le développement du backend, avec la possibilité d'ajouter un frontend en bonus. L'objectif principal est de permettre aux utilisateurs de gérer facilement leurs tâches à faire.
 
